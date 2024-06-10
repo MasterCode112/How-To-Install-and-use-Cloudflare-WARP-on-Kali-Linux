@@ -1,4 +1,4 @@
-# How-To-Install-and-use-Cloudflare-WARP-on-Kali-Linux
+# How-To-Install-and-use-Cloudflare-WARP-VPN-on-Kali-Linux
 step-by-step guide to install and use Cloudflare WARP on Kali Linux:
 WARP is a service provided by Cloudflare that aims to improve internet speed and security. There are different ways to use Cloudflare WARP, including through their mobile apps, desktop apps, and on Linux distributions. For Kali Linux, you would typically use the WARP Linux client.
 
